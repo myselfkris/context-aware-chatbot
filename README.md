@@ -33,6 +33,10 @@ This repository contains experiments and mini projects using LangChain, RAG (Ret
 ## Purpose
 
 This repository is part of my AI engineering learning journey and experiments with LangChain.
+## How to Run
+
+pip install -r requirements.txt
+python app_1.py
 
 ## Author
 
